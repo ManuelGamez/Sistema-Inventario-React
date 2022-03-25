@@ -1,0 +1,131 @@
+.colorbarrasuperior{
+    background-color: #1A4262;
+ }
+ .botonnavegador{
+     color: rgb(255, 255, 255);
+ }
+ .textoizquierda{
+     text-align: left;
+     color: #1A4262;
+     margin-block-end: 4px;
+     border-radius: 5px;
+     border-color: #1a42621e;
+ }
+ .espaciomenulateral{
+     margin-top: 9px;
+ }
+ .imagenprincipal{
+     width: 80px;
+     margin-top: -12px;
+     margin-block-end: 5px;
+     margin-left: 67px;
+ }
+ 
+ .marginbuscador{
+     margin-left: -60px;
+     margin-top: 2px;
+ }
+ .marginlateral {
+     margin-left: -53px;
+ }
+ .colorselect{
+     background-color: #FFFFFF;
+     border-radius: 5px;
+     border: 1px solid #CED4DA;
+     width: 245PX;
+     height: 28px;
+ }
+ .colorselectnumero1{
+     color: #FAFBFC;
+ }
+ .margenbotonbuscar{
+     margin-block-end: 5px;
+ }
+ .tamanoboton{
+     margin-left: 2px;
+     padding-left: 25px;
+     padding-right: 25px;
+     background-color: #1A4262;
+     color: #FAFBFC;
+ }
+ .margintabla{
+     margin-top: 9px;
+ }
+ .scrooltabla{
+     overflow-x:auto;
+ }
+ .tablasmargen{
+     max-height: 800px;
+     overflow: auto;
+     max-width: 760px;
+     overflow-y: auto;
+     display:inline-block;
+     
+     border-radius: 8px;
+ }
+ .stylotabla{
+     background-color: #1A4262;
+     color: white;
+     font-size: 12px;;
+ }
+ .colorbotones{
+     background-color: #1A4262;
+     color: #FAFBFC;
+ }
+ .margenentreboton{
+     margin-left: 5px;
+ }
+ .separadorbuscador{
+     margin-left: 325px;
+ }
+ .marginbuscadorformulario{
+     margin-left: -95px;
+     margin-top: 9px;
+ }
+ .stilobotonbarrasuperior{
+     border-radius: 5px;
+     font-size: 12px;
+     border-color: #1A4262;
+ }
+ .colorbotonestabla{
+     background-color: #1A4262;
+     color: #FAFBFC;
+ }
+ .botonmenuderecha{
+     border-radius: 15px;
+     margin-left: 10px;
+     margin-block-end: 10px;
+     background-color: #E2E6EA;
+     color: #221A0F;
+ }
+ .imagenbotonderecha{
+     width: 70px;
+ }
+ .separadormenusuperior{
+     margin-block-end: 10px;
+ }
+ .margenmenuderecha{
+     margin-block-end: 8px;
+     border-radius: 12px;
+ }
+ .colorvencidos{
+     background-color: #1E1E32;
+     color: #E2E6EA;
+ }
+ .proximoavencer{
+     background-color: #6B0D20;
+     color: #E2E6EA;
+ }
+ .sesentadiasparavencer{
+     background-color: #E09F00;
+     color: #221A0F;
+ }
+ .noventadiasparavencer{
+     background-color: #5DBE7A;
+     color: #221A0F;
+ }
+ .colornumeropequeño{
+     background-color: #881F23;
+     color: #CED4DA;
+     font-size: 12px;
+ }
